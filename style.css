@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    margin: auto;
+    height: 1024px;
+    width: 1024px;
+    background-image: url("https://masterpiecer-images.s3.yandex.net/5f97f65f992abaa:upscaled");
+}
+
+.Hello{
+    color: blue;
+
+}
